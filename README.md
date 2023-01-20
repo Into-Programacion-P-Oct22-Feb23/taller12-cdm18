@@ -1,4 +1,4 @@
-# Taller12
+# Taller12 Daniel Ojeda y Carlos Mejia
 
 ## Problemáticas
 
